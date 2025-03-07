@@ -4,7 +4,7 @@ const { a: a2, add: add2 } = require("./local-2");
 
 console.log(a2);
 
-// build in module
+// built in module
 
 const path = require("path");
 
